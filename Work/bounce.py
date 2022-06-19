@@ -1,6 +1,4 @@
 # bounce.py
-from turtle import end_fill
-
 
 height = 100
 bounce = 1
